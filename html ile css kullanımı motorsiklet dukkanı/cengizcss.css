@@ -1,0 +1,20 @@
+.header {text-align: center;}
+
+.anasayfa {font-style: italic;}
+
+a:hover {color:rgb(21, 218, 80);}
+
+.markalar {color:rgb(112, 138, 0);}
+
+nav li  {
+    list-style-type: none;
+    display:inline-block;
+    margin: 15px;
+    float:none;
+
+}
+ul {background-color: red;
+    height: 50px;
+    
+}
+

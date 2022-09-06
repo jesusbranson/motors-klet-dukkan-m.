@@ -1,0 +1,15 @@
+body {text-align: center;
+      
+}
+
+ol {
+    list-style-type: none;
+}
+
+a {
+    margin:30px;
+}
+
+h1,h2 {
+    color:rgb(209, 15, 177);
+}
